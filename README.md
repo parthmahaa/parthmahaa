@@ -4,7 +4,7 @@
 
 ## 🚀 About Me
 I'm a passionate 6th Sem Computer Engineering student learning and developing projects.
-- 🌱 I’m currently learning **Flutter and React**
+- 🌱 I’m currently learning **SpringBoot and AWS**
 
 - 📫 How to reach me: **parthmaha9@gmail.com**
 
