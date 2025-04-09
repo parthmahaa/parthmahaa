@@ -42,14 +42,15 @@
 ### 🌐 Connect with me
 
 <p align="left">
-  <a href="https://www.instagram.com/parthmaha" target="_blank">
+  <a href="https://www.instagram.com/parthmaha" target="_blank" rel="noopener noreferrer">
     <img src="https://skillicons.dev/icons?i=instagram" />
   </a>
-  <a href="mailto:parthmaha9@gmail.com" target="_blank">
+  <a href="mailto:parthmaha9@gmail.com" target="_blank" rel="noopener noreferrer">
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
-  <a href="https://www.linkedin.com/in/parth-maha-8a3079200/" target="_blank">
+  <a href="https://www.linkedin.com/in/parth-maha-8a3079200/" target="_blank" rel="noopener noreferrer">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
 </p>
+
 
