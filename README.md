@@ -3,7 +3,7 @@
 <h3 align="center">I'm a passionate Software Engineer</h3>
 
 <p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=parthmaha&label=Profile%20views&color=0e75b6&style=flat" alt="Parth Maha"/> 
+  <img src="https://komarev.com/ghpvc/?username=parthmahaa&label=Profile%20views&color=0e75b6&style=flat" alt="Parth Maha"/> 
 </p>
 
 ### 🌱 I’m currently learning
