@@ -24,7 +24,6 @@
   </a>
 </p>
 
----
 
 ## 🧑‍💻 Coding Platforms:
 [![CodeChef](https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white)](https://www.codechef.com/users/parthmaha)
