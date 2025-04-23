@@ -8,7 +8,7 @@
 
 ### 🌱 I’m currently learning
 - SpringBoot
-- PostgreSQL
+- Microservices
 - AWS
 
 ### 📫 Get in Touch
