@@ -12,7 +12,7 @@
 - AWS
 
 ### 📫 Get in Touch
-- Feel free to contact me at [parthmaha9@gmail.com](mailto:parthmaha9@gmail.com) for opportunities or queries!
+- Feel free to contact me at [parthmaha9@gmail.com](mailto:parthmaha9@gmail.com) for opportunities.
 
 ---
 
