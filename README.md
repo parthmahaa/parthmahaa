@@ -24,11 +24,6 @@
   </a>
 </p>
 
-
-## 🧑‍💻 Coding Platforms:
-[![CodeChef](https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white)](https://www.codechef.com/users/parthmaha)
-[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/u/parthmaha/)
-
 ---
 
 ### 📊 GitHub Stats
